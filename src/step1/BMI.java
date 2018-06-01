@@ -1,5 +1,14 @@
 package step1;
 import java.util.Scanner;
+/**
+ BMI= 몸무게/(키)제곱 
+저체중 : 18.5 미만
+정상: 18.5~23
+비만전단계: 23 ~25
+비만1단계: 25~30
+비만2단계 :30~35
+비만3단계 : 35이상 
+ * */
 public class BMI {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
